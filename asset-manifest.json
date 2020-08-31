@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/FCC-FrontEndCertificate-2-MarkupEditor/static/css/main.5f361e03.chunk.css",
-    "main.js": "/FCC-FrontEndCertificate-2-MarkupEditor/static/js/main.84e7c722.chunk.js",
-    "main.js.map": "/FCC-FrontEndCertificate-2-MarkupEditor/static/js/main.84e7c722.chunk.js.map",
+    "main.js": "/FCC-FrontEndCertificate-2-MarkupEditor/static/js/main.3f8ffe10.chunk.js",
+    "main.js.map": "/FCC-FrontEndCertificate-2-MarkupEditor/static/js/main.3f8ffe10.chunk.js.map",
     "runtime-main.js": "/FCC-FrontEndCertificate-2-MarkupEditor/static/js/runtime-main.1496d1e2.js",
     "runtime-main.js.map": "/FCC-FrontEndCertificate-2-MarkupEditor/static/js/runtime-main.1496d1e2.js.map",
     "static/js/2.70da0a02.chunk.js": "/FCC-FrontEndCertificate-2-MarkupEditor/static/js/2.70da0a02.chunk.js",
     "static/js/2.70da0a02.chunk.js.map": "/FCC-FrontEndCertificate-2-MarkupEditor/static/js/2.70da0a02.chunk.js.map",
     "index.html": "/FCC-FrontEndCertificate-2-MarkupEditor/index.html",
-    "precache-manifest.c632072e413e4cf298bd6e4308b1a9de.js": "/FCC-FrontEndCertificate-2-MarkupEditor/precache-manifest.c632072e413e4cf298bd6e4308b1a9de.js",
+    "precache-manifest.116cb85c3485f78ef3a1c8fbf73c9155.js": "/FCC-FrontEndCertificate-2-MarkupEditor/precache-manifest.116cb85c3485f78ef3a1c8fbf73c9155.js",
     "service-worker.js": "/FCC-FrontEndCertificate-2-MarkupEditor/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/FCC-FrontEndCertificate-2-MarkupEditor/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.70da0a02.chunk.js.LICENSE.txt": "/FCC-FrontEndCertificate-2-MarkupEditor/static/js/2.70da0a02.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1496d1e2.js",
     "static/js/2.70da0a02.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.84e7c722.chunk.js"
+    "static/js/main.3f8ffe10.chunk.js"
   ]
 }
